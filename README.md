@@ -8,5 +8,5 @@
 <a href="https://instagram.com/osmangazikarax" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osmangazikarax" height="30" width="40" /></a>
 <a href="https://medium.com/@osmangazikara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@osmangazikara" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@osmangazikara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc0tdm26hx-qen4cnsxizxeg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@osmangazikara" target="_blank"><img align="center" src="https://www.tiktok.com/favicon.ico" alt="osmangazikara" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@osmangazikara" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/tik-tok-logo-png/tik-tok-logo-circle-social-butterfly-magazine-fresh-approach-lifestyle-15.png" alt="osmangazikara" height="30" width="40" /></a>
 </p>
